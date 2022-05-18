@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "FFPopup",
-    platforms: [.iOS("8.0"), .macOS("10.13.6")],
+    platforms: [.iOS("9.0"), .macOS("10.13.6")],
     products: [
         .library(name: "FFPopup", targets: ["FFPopup"])
     ],
