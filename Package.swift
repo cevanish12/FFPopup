@@ -11,6 +11,6 @@ let package = Package(
     targets: [
         .target(
             name: "FFPopup",
-            path: "FFPopup"
+            path: "FFPopup")
     ]
 )
