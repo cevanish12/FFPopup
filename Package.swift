@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .target(
             name: "FFPopup",
-            path: "Classes",
+            path: "FFPopup/Classes",
             exclude: [
                 "FFPopup.m"
             ]
